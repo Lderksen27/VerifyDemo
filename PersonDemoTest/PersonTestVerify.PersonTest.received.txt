@@ -1,0 +1,14 @@
+﻿{
+  HasDriversLicense: true,
+  LicensePlate: BB-111-A,
+  isActive: true,
+  FullName: Piet Jansen,
+  Age: 35,
+  Address: {
+    Street: Hoofdstraat,
+    HouseNumber: 15B,
+    City: Amsterdam,
+    PostalCode: 1234AB,
+    Country: The Netherlands
+  }
+}
